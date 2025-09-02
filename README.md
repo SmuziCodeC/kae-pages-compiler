@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis scelerisque 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis scelerisque nisl sed laoreet. Quisque dapibus hendrerit condimentum. Nunc viverra dui eu lacinia molestie. Nulla facilisi. Pellentesque et orci eget velit suscipit sodales at id libero. Nulla nec est urna. Vestibulum at porta neque. Etiam ac velit consectetur, hendrerit augue.
 ##
 ## Основано на чем?
-Основал я это на JavaScript, HTML, и не использую сам язык!
+Основал я это на <s>JavaScript, HTML</s> (зачеркнул потому что перешел на пайтон и pygame), и не использую сам язык!
 # FAQ
 ## Можно ли по приколу сделать KaePages Compiler на KaePages?
 Конечно, этот проект хоть и для разработки, но вам решать!
